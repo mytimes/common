@@ -8,5 +8,6 @@
 |NettyRoutingFilter|整形最大值|真正的请求|
 |NettyWriteResponseFilter|WRITE_RESPONSE_FILTER_ORDER(-1)|响应回写|
 |RouteToRequestUrlFilter|ROUTE_TO_URL_FILTER_ORDER(10000)|路由到指定url|
-WebClientHttpRoutingFilter|
+WebClientHttpRoutingFilter|整形最大值|无|
+
 
