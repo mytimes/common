@@ -3,5 +3,5 @@
 |-|-|-|
 |ForwardPathFilter|0|如果有forward的话设置重定向的url|
 |ForwardRoutingFilter|整形的最大值|无|
-|GatewayMetricsFilter|
+|GatewayMetricsFilter|WRITE_RESPONSE_FILTER_ORDER + 1（0）|无|
 
