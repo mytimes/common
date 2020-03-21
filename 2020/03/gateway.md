@@ -4,4 +4,5 @@
 |ForwardPathFilter|0|如果有forward的话设置重定向的url|
 |ForwardRoutingFilter|整形的最大值|无|
 |GatewayMetricsFilter|WRITE_RESPONSE_FILTER_ORDER + 1（0）|无|
+|LoadBalancerClientFilter|LOAD_BALANCER_CLIENT_FILTER_ORDER（10100）
 
