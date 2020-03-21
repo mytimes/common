@@ -5,5 +5,5 @@
 |ForwardRoutingFilter|整形的最大值|无|
 |GatewayMetricsFilter|WRITE_RESPONSE_FILTER_ORDER + 1（0）|无|
 |LoadBalancerClientFilter|LOAD_BALANCER_CLIENT_FILTER_ORDER（10100）|负载均衡|
-|NettyRoutingFilter|
+|NettyRoutingFilter|整形最大值|
 
