@@ -10,5 +10,5 @@
 |RouteToRequestUrlFilter|ROUTE_TO_URL_FILTER_ORDER(10000)|路由到指定url|
 WebClientHttpRoutingFilter|整形最大值|无|
 |WebClientWriteResponseFilter|WRITE_RESPONSE_FILTER_ORDER（-1）|写响应|
-
+|WebsocketRoutingFilter|
 
